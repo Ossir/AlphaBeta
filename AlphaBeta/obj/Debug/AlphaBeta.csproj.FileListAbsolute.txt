@@ -1,1 +1,6 @@
 c:\users\ossir_000\documents\visual studio 2012\Projects\AlphaBeta\AlphaBeta\bin\Debug\AlphaBeta.exe.config
+c:\users\ossir_000\documents\visual studio 2012\Projects\AlphaBeta\AlphaBeta\bin\Debug\AlphaBeta.exe
+c:\users\ossir_000\documents\visual studio 2012\Projects\AlphaBeta\AlphaBeta\bin\Debug\AlphaBeta.pdb
+c:\users\ossir_000\documents\visual studio 2012\Projects\AlphaBeta\AlphaBeta\obj\Debug\AlphaBeta.csprojResolveAssemblyReference.cache
+c:\users\ossir_000\documents\visual studio 2012\Projects\AlphaBeta\AlphaBeta\obj\Debug\AlphaBeta.exe
+c:\users\ossir_000\documents\visual studio 2012\Projects\AlphaBeta\AlphaBeta\obj\Debug\AlphaBeta.pdb
