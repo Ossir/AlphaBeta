@@ -1,0 +1,1 @@
+c:\users\ossir_000\documents\visual studio 2012\Projects\AlphaBeta\AlphaBeta\bin\Debug\AlphaBeta.exe.config
