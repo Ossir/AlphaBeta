@@ -17,7 +17,7 @@ namespace AlphaBeta
         static int Cut(int s, int step, bool max, int alpha, int beta)
         {
             List<int> LookahedTree = new List<int>();
-            int variant;
+            int value;
             int result = 0;
             if (s < GameOver)
             {
@@ -25,15 +25,15 @@ namespace AlphaBeta
                 {
                     for (int i = MaxNumber; i >= MinNumber; i--)
                     {
-                        variant = Cut(s + i, step + 1, !max, alpha, beta);
-                        LookahedTree.Add(variant);
-                        if (max && variant > alpha)
+                        value = Cut(s + i, step + 1, !max, alpha, beta);
+                        LookahedTree.Add(value);
+                        if (max && value > alpha)
                         {
-                            alpha = variant;
+                            alpha = value;
                         }
-                        else if (!max && variant < beta)
+                        else if (!max && value < beta)
                         {
-                            beta = variant;
+                            beta = value;
                         }
                         if (alpha >= beta)
                         {
